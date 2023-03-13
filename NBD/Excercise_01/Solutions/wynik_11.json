@@ -1,0 +1,12 @@
+[
+    {
+        "sex": "Female",
+        "avgHeight": 166.81,
+        "avgWeight": 70.11
+    },
+    {
+        "sex": "Male",
+        "avgHeight": 166.74,
+        "avgWeight": 70.01
+    }
+]

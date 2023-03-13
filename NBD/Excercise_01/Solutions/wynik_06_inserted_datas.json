@@ -1,0 +1,29 @@
+{
+    "_id": "640fb294bb947cac3dee707b",
+    "sex": "Male",
+    "first_name": "Maciej",
+    "last_name": "Krzak",
+    "job": "Automation engineer",
+    "email": "s28276@pjwstk.edu.pl",
+    "student_id": "s28276",
+    "location": {
+        "city": "Siedlce",
+        "address": {
+            "streetname": "Dworcowa",
+            "streetnumber": "10"
+        }
+    },
+    "description": "vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris",
+    "height": "175",
+    "weight": "76.32",
+    "birth_date": "1989-06-17T02:55:03Z",
+    "nationality": "Poland",
+    "credit": [
+        {
+            "type": "switch",
+            "number": "6759888939100098699",
+            "currency": "COP",
+            "balance": "5117.06"
+        }
+    ]
+}

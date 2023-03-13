@@ -1,0 +1,367 @@
+[
+    {
+        "currency": "AFN",
+        "avgBalance": 5585.16,
+        "sumerizedBalance": 16755.49
+    },
+    {
+        "currency": "ALL",
+        "avgBalance": 3325.48,
+        "sumerizedBalance": 3325.48
+    },
+    {
+        "currency": "AMD",
+        "avgBalance": 4921.87,
+        "sumerizedBalance": 24609.33
+    },
+    {
+        "currency": "ARS",
+        "avgBalance": 4648.4,
+        "sumerizedBalance": 23242
+    },
+    {
+        "currency": "BGN",
+        "avgBalance": 5300.22,
+        "sumerizedBalance": 21200.88
+    },
+    {
+        "currency": "BOB",
+        "avgBalance": 5263.3,
+        "sumerizedBalance": 5263.3
+    },
+    {
+        "currency": "BRL",
+        "avgBalance": 4512,
+        "sumerizedBalance": 49632.02
+    },
+    {
+        "currency": "BWP",
+        "avgBalance": 4076.29,
+        "sumerizedBalance": 4076.29
+    },
+    {
+        "currency": "BYR",
+        "avgBalance": 5095.79,
+        "sumerizedBalance": 5095.79
+    },
+    {
+        "currency": "CAD",
+        "avgBalance": 5306.87,
+        "sumerizedBalance": 58375.6
+    },
+    {
+        "currency": "CDF",
+        "avgBalance": 6114.4,
+        "sumerizedBalance": 12228.8
+    },
+    {
+        "currency": "CLP",
+        "avgBalance": 5252.24,
+        "sumerizedBalance": 21008.95
+    },
+    {
+        "currency": "CNY",
+        "avgBalance": 4954.74,
+        "sumerizedBalance": 470700.38
+    },
+    {
+        "currency": "COP",
+        "avgBalance": 4936.68,
+        "sumerizedBalance": 19746.73
+    },
+    {
+        "currency": "CUP",
+        "avgBalance": 5005.78,
+        "sumerizedBalance": 15017.34
+    },
+    {
+        "currency": "CZK",
+        "avgBalance": 4644.55,
+        "sumerizedBalance": 37156.42
+    },
+    {
+        "currency": "DOP",
+        "avgBalance": 5168.68,
+        "sumerizedBalance": 20674.74
+    },
+    {
+        "currency": "EGP",
+        "avgBalance": 5579.3,
+        "sumerizedBalance": 5579.3
+    },
+    {
+        "currency": "ETB",
+        "avgBalance": 5436.11,
+        "sumerizedBalance": 5436.11
+    },
+    {
+        "currency": "EUR",
+        "avgBalance": 4901.83,
+        "sumerizedBalance": 245091.47
+    },
+    {
+        "currency": "GBP",
+        "avgBalance": 6149.19,
+        "sumerizedBalance": 6149.19
+    },
+    {
+        "currency": "GTQ",
+        "avgBalance": 5806.3,
+        "sumerizedBalance": 5806.3
+    },
+    {
+        "currency": "HNL",
+        "avgBalance": 5504.86,
+        "sumerizedBalance": 16514.59
+    },
+    {
+        "currency": "HRK",
+        "avgBalance": 4870.96,
+        "sumerizedBalance": 24354.82
+    },
+    {
+        "currency": "IDR",
+        "avgBalance": 4907.92,
+        "sumerizedBalance": 323922.59
+    },
+    {
+        "currency": "ILS",
+        "avgBalance": 5431.83,
+        "sumerizedBalance": 16295.49
+    },
+    {
+        "currency": "IQD",
+        "avgBalance": 4269.39,
+        "sumerizedBalance": 4269.39
+    },
+    {
+        "currency": "IRR",
+        "avgBalance": 4417.37,
+        "sumerizedBalance": 26504.24
+    },
+    {
+        "currency": "ISK",
+        "avgBalance": 4316.41,
+        "sumerizedBalance": 4316.41
+    },
+    {
+        "currency": "JPY",
+        "avgBalance": 5078.73,
+        "sumerizedBalance": 60944.74
+    },
+    {
+        "currency": "KRW",
+        "avgBalance": 6689.91,
+        "sumerizedBalance": 13379.82
+    },
+    {
+        "currency": "KYD",
+        "avgBalance": 3760.89,
+        "sumerizedBalance": 3760.89
+    },
+    {
+        "currency": "KZT",
+        "avgBalance": 3788.95,
+        "sumerizedBalance": 3788.95
+    },
+    {
+        "currency": "LYD",
+        "avgBalance": 4382.49,
+        "sumerizedBalance": 8764.99
+    },
+    {
+        "currency": "MAD",
+        "avgBalance": 3818.85,
+        "sumerizedBalance": 3818.85
+    },
+    {
+        "currency": "MGA",
+        "avgBalance": 4853.66,
+        "sumerizedBalance": 14560.99
+    },
+    {
+        "currency": "MKD",
+        "avgBalance": 3835.05,
+        "sumerizedBalance": 3835.05
+    },
+    {
+        "currency": "MMK",
+        "avgBalance": 4629.42,
+        "sumerizedBalance": 4629.42
+    },
+    {
+        "currency": "MNT",
+        "avgBalance": 5428.9,
+        "sumerizedBalance": 21715.61
+    },
+    {
+        "currency": "MWK",
+        "avgBalance": 3574.42,
+        "sumerizedBalance": 3574.42
+    },
+    {
+        "currency": "MXN",
+        "avgBalance": 5022.9,
+        "sumerizedBalance": 50229
+    },
+    {
+        "currency": "MYR",
+        "avgBalance": 4781.12,
+        "sumerizedBalance": 4781.12
+    },
+    {
+        "currency": "NGN",
+        "avgBalance": 4157.7,
+        "sumerizedBalance": 24946.23
+    },
+    {
+        "currency": "NIO",
+        "avgBalance": 4985.64,
+        "sumerizedBalance": 9971.28
+    },
+    {
+        "currency": "NOK",
+        "avgBalance": 4773.66,
+        "sumerizedBalance": 4773.66
+    },
+    {
+        "currency": "NPR",
+        "avgBalance": 5792.26,
+        "sumerizedBalance": 5792.26
+    },
+    {
+        "currency": "NZD",
+        "avgBalance": 5328.46,
+        "sumerizedBalance": 5328.46
+    },
+    {
+        "currency": "PEN",
+        "avgBalance": 4661.23,
+        "sumerizedBalance": 18644.94
+    },
+    {
+        "currency": "PHP",
+        "avgBalance": 4941.93,
+        "sumerizedBalance": 118606.28
+    },
+    {
+        "currency": "PKR",
+        "avgBalance": 4734.5,
+        "sumerizedBalance": 18938
+    },
+    {
+        "currency": "PLN",
+        "avgBalance": 5042.82,
+        "sumerizedBalance": 90770.78
+    },
+    {
+        "currency": "PYG",
+        "avgBalance": 4874.69,
+        "sumerizedBalance": 4874.69
+    },
+    {
+        "currency": "RSD",
+        "avgBalance": 4276.56,
+        "sumerizedBalance": 4276.56
+    },
+    {
+        "currency": "RUB",
+        "avgBalance": 4989.55,
+        "sumerizedBalance": 119749.15
+    },
+    {
+        "currency": "RWF",
+        "avgBalance": 4632.88,
+        "sumerizedBalance": 4632.88
+    },
+    {
+        "currency": "SEK",
+        "avgBalance": 5060.01,
+        "sumerizedBalance": 70840.19
+    },
+    {
+        "currency": "SRD",
+        "avgBalance": 5286.68,
+        "sumerizedBalance": 5286.68
+    },
+    {
+        "currency": "THB",
+        "avgBalance": 4604.39,
+        "sumerizedBalance": 23021.96
+    },
+    {
+        "currency": "TJS",
+        "avgBalance": 4087.71,
+        "sumerizedBalance": 4087.71
+    },
+    {
+        "currency": "TZS",
+        "avgBalance": 3526.19,
+        "sumerizedBalance": 7052.37
+    },
+    {
+        "currency": "UAH",
+        "avgBalance": 5058.98,
+        "sumerizedBalance": 40471.84
+    },
+    {
+        "currency": "USD",
+        "avgBalance": 4978.73,
+        "sumerizedBalance": 74680.98
+    },
+    {
+        "currency": "UZS",
+        "avgBalance": 3573.03,
+        "sumerizedBalance": 3573.03
+    },
+    {
+        "currency": "VEF",
+        "avgBalance": 4166.64,
+        "sumerizedBalance": 8333.28
+    },
+    {
+        "currency": "VND",
+        "avgBalance": 4520.03,
+        "sumerizedBalance": 36160.26
+    },
+    {
+        "currency": "VUV",
+        "avgBalance": 6418.27,
+        "sumerizedBalance": 6418.27
+    },
+    {
+        "currency": "XAF",
+        "avgBalance": 4698.22,
+        "sumerizedBalance": 14094.66
+    },
+    {
+        "currency": "XOF",
+        "avgBalance": 5960.68,
+        "sumerizedBalance": 17882.05
+    },
+    {
+        "currency": "XPF",
+        "avgBalance": 4759.07,
+        "sumerizedBalance": 4759.07
+    },
+    {
+        "currency": "YER",
+        "avgBalance": 4570.83,
+        "sumerizedBalance": 13712.5
+    },
+    {
+        "currency": "ZAR",
+        "avgBalance": 3930.31,
+        "sumerizedBalance": 11790.92
+    },
+    {
+        "currency": "ZMW",
+        "avgBalance": 5569.56,
+        "sumerizedBalance": 5569.56
+    },
+    {
+        "currency": "ZWL",
+        "avgBalance": 5792.17,
+        "sumerizedBalance": 5792.17
+    }
+]
